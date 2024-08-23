@@ -1,0 +1,123 @@
+.faq2faq8 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.faq2-max-width {
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-content {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-list-item1 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-list-item2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-list-item3 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-list-item4 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-list-item5 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq2-text11 {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+  display: inline-block;
+}
+.faq2-text12 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq2-text13 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq2-text14 {
+  display: inline-block;
+}
+.faq2-text15 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq2-text16 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq2-text17 {
+  display: inline-block;
+}
+.faq2-text18 {
+  display: inline-block;
+}
+.faq2-text19 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq2-text20 {
+  display: inline-block;
+}
+.faq2-text21 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .faq2-container {
+    flex-direction: column;
+  }
+}
+@media(max-width: 767px) {
+  .faq2faq8 {
+    padding: 48px;
+  }
+}
+@media(max-width: 479px) {
+  .faq2faq8 {
+    padding: 24px;
+  }
+}
